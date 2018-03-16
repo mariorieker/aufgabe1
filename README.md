@@ -1,4 +1,4 @@
 
-#Studentprojekt SS18 - Hoschule für Gestaltung Schwäbisch Gmünd
+# Studentprojekt SS18 - Hoschule für Gestaltung Schwäbisch Gmünd
 
-##NodeJS, NPM and Express
+## NodeJS, NPM and Express
