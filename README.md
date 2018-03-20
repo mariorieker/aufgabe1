@@ -1,4 +1,4 @@
 
-# Studentprojekt SS18 - Hoschule für Gestaltung Schwäbisch Gmünd
+# Aufgabe 1 Mario Rieker - Hoschule für Gestaltung Schwäbisch Gmünd SS18
 
-## NodeJS, NPM and Express
+## NodeJS, NPM and Express Webserver
