@@ -1,0 +1,23 @@
+{
+  "name": "aufgabe1",
+  "version": "1.0.0",
+  "description": "package_json for aufgabe 1 mariorieker",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariorieker/aufgabe1.git"
+  },
+  "author": "mariorieker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariorieker/aufgabe1/issues"
+  },
+  "homepage": "https://github.com/mariorieker/aufgabe1#readme"
+}
